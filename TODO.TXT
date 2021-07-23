@@ -1,0 +1,6 @@
+----TO DO----
+FIND WAY TO IGNORE STORAGE UNIT CASES, MEDALS, ETC. [] (steaminvenscraper.py)
+FIND WAY TO INCLUDE DUPLICATES [-] (steaminvenscraper.py)
+found way for weapons, now I need to do it for stickers  and capsules.
+FIND WAY TO FIND PHASES and URL to use for BUFF [] (steaminvenscraper.py , buff_scraper.py)
+INTEGRATE IT INTO THE BUFF SCRAPE [] (buff_scraper.py)
