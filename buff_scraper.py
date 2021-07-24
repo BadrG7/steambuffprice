@@ -29,5 +29,3 @@ else:
 # Printing Results
 print(skin_name)
 print(buff_price +' ¥ '+ buff_price_USD + ' $')
-
-#?  23
