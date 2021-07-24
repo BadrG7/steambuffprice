@@ -38,9 +38,4 @@ def steamscraper(id):
             if(steamAPIParsed['descriptions'][o]['classid'] == classid_list[i]):
                     item_names.append(steamAPIParsed['descriptions'][o]['market_hash_name'])
 
-    return len(item_names)
-
-
-
-print(steamscraper('76561198027016127'))
-
+    return item_names
